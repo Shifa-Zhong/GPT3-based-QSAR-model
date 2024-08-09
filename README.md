@@ -1,1 +1,1 @@
-This is reserved for the code of GPT-3 based QSAR models
+## Developing Quantitative Structure−Activity Relationship (QSAR) Models for Water Contaminants’ Activities/Properties by Fine-Tuning GPT‑3 Models
